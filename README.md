@@ -1,4 +1,8 @@
 # json-tool
+## introduction
+
+使用vue实现的json格式化工具网站，界面样式仿写https://www.json.cn/#
+对于Json的格式化处理使用了递归组件
 
 ## Project setup
 ```
