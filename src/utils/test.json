@@ -1,0 +1,13 @@
+{
+  "x": 1,
+  "y": "abcdef",
+  "z": {
+    "z1": [1, 2, 3],
+    "z2": {
+      "user": "liwei",
+      "age": 18
+    },
+    "z3": "doododododoooodood"
+  },
+  "o": {}
+}
